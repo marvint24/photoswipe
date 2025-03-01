@@ -1,0 +1,6 @@
+{
+  "workbench.editor.labelFormat": "default",
+  "workbench.editor.customLabels.patterns": {
+    "**/+page.svelte": "../${dirname}/${filename}.${extname}"
+  }
+}
